@@ -1,0 +1,5 @@
+C:\Users\notebiz701\Documents\Visual Studio 2008\Projects\csStudy\Grammar\St01_IntroEx04\St01_IntroEx04\bin\Debug\St01_IntroEx04.exe
+C:\Users\notebiz701\Documents\Visual Studio 2008\Projects\csStudy\Grammar\St01_IntroEx04\St01_IntroEx04\bin\Debug\St01_IntroEx04.pdb
+C:\Users\notebiz701\Documents\Visual Studio 2008\Projects\csStudy\Grammar\St01_IntroEx04\St01_IntroEx04\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\notebiz701\Documents\Visual Studio 2008\Projects\csStudy\Grammar\St01_IntroEx04\St01_IntroEx04\obj\Debug\St01_IntroEx04.exe
+C:\Users\notebiz701\Documents\Visual Studio 2008\Projects\csStudy\Grammar\St01_IntroEx04\St01_IntroEx04\obj\Debug\St01_IntroEx04.pdb
